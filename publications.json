@@ -1,0 +1,47 @@
+{
+  "publications": [
+    {
+      "title": "Exposure to elevated relative humidity in laboratory chambers alters fungal gene expression in dust from the International Space Station (ISS)",
+      "authors": [
+        "Neeraja Balasubrahmaniam*",
+        "Nicholas Nastasi",
+        "Bridget Hegarty",
+        "John M. Horack",
+        "Marit E. Meyer",
+        "Sarah R. Haines",
+        "Karen C. Dannemiller†"
+      ],
+      "venue": "Scientific Reports (2025)",
+      "thumbnail": "/images/thumbs/ISS.png",
+      "selected": 1,
+      "links": {
+        "url": "https://www.nature.com/articles/s41598-025-09534-6",
+        "pdf": "/papers/balasubrahmaniam-et-al-ISS-2025.pdf",
+        "poster": "/poster/IDI-poster-11.11.25-nb-kcd.pdf",
+        "repo": "https://github.com/n-bsub/Gene-Expr_ISS",
+        "poster": "/poster/IDI-poster-11.11.25-nb-kcd.pdf"
+      }
+    },
+    {
+      "title": "Moving beyond species: fungal function in house dust provides novel targets for potential indicators of mold growth in homes",
+      "authors": [
+        "Neeraja Balasubrahmaniam*",
+        "Jon C. King",
+        "Bridget Hegarty",
+        "Karen C. Dannemiller†"
+      ],
+      "venue": "Microbiome (2024)",
+      "thumbnail": "/images/thumbs/Gene-mold.jpg",
+      "selected": 1,
+      "links": {
+        "url": "https://link.springer.com/article/10.1186/s40168-024-01915-9",
+        "pdf": "/papers/balasubrahmaniam-et-al-mold-gene-2024.pdf",
+        "repo": "https://github.com/n-bsub/Mold_metatranscriptomics"
+      }
+    }
+  ]
+
+}
+
+
+
